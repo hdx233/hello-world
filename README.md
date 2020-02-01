@@ -1,2 +1,6 @@
 # hello-world
-This is m;y first project!
+This is my first project!
+
+cout<<hello world;
+printf(hello world );
+this have channged
